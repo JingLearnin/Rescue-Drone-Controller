@@ -1,4 +1,4 @@
-# Assignment A2 - Rescue mission
+# Rescue mission
 
 ## Product Description
 
